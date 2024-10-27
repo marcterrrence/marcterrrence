@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcterrrence
 - 👀 I’m currently working at Cahaya Riset Teknologi As A Head Of Information Tech
 - 🌱 I’m currently learning Data Science
-- 📫 You can reach me by marcmandagi@cahayarisetteknologi.com
+- 📫 You can reach me by marc@hypernym.site
 
 <!---
 marcterrrence/marcterrrence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
